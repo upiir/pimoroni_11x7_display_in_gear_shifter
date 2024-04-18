@@ -1,5 +1,5 @@
-# Pimoroni 11x7 LED Matrix display placed inside a custom 3D printed shifter knob to show the current gear for a manual transmissino car
-Pimoroni 11x7 LED Matrix display placed inside a custom 3D printed shifter knob to show the current gear for a manual transmissino car
+# Pimoroni 11x7 LED Matrix display placed inside a custom 3D printed shifter knob to show the current gear for a manual transmission car
+Pimoroni 11x7 LED Matrix display placed inside a custom 3D printed shifter knob to show the current gear for a manual transmission car
 
 
 **YouTube video: https://youtu.be/HcP48uCBzDQ**
@@ -9,6 +9,9 @@ Pimoroni 11x7 LED Matrix display placed inside a custom 3D printed shifter knob 
 YouTube video part 1: https://youtu.be/QixtxaAda18
 
 YouTube video part 2: https://youtu.be/sZZFgSmYJjc
+
+![THUMB_3d_printed_shifter_knob](https://github.com/upiir/pimoroni_11x7_display_in_gear_shifter/assets/117754156/6b278771-1972-44a0-8656-5e3695b0f590)
+
 
 
 Links from the video:
