@@ -2,9 +2,9 @@
 Pimoroni 11x7 LED Matrix display placed inside a custom 3D printed shifter knob to show the current gear for a manual transmissino car
 
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/HcP48uCBzDQ**
 
-**WOKWI sketch: XXX**
+**WOKWI sketch: https://wokwi.com/projects/395488320396224513**
 
 YouTube video part 1: https://youtu.be/QixtxaAda18
 
