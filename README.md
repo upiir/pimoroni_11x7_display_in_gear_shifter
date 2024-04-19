@@ -15,6 +15,7 @@ YouTube video part 2: https://youtu.be/sZZFgSmYJjc
 
 
 Links from the video:
+- do you like video? Please consider buying me coffee, thanks! https://www.buymeacoffee.com/upir
 - Bambu Lab A1 mini 3D Printer: https://shareasale.com/r.cfm?b=2420414&u=3422904&m=138211&urllink=&afftrack=
 - MOMO shifter knob: https://s.click.aliexpress.com/e/_DnKeTPb
 - Pimoroni 7x11px LED Matrix Display: https://shop.pimoroni.com/products/11x7-led-matrix-breakout?variant=21791690752083
@@ -23,6 +24,7 @@ Links from the video:
 - Arduino UNO R3: https://s.click.aliexpress.com/e/_AXDw1h
 - Arduino breadboard prototyping shield: https://s.click.aliexpress.com/e/_DlxEfPX
 - Photopea (online graphics editor like Photoshop): https://www.photopea.com/
+- Car shifter keyring: https://s.click.aliexpress.com/e/_DkjX6eL
 
 
 Small Animations:
